@@ -1,10 +1,10 @@
-# LawPatch Dictionary
+# Codepact Dictionary
 
-The purpose of the LawPatch dictionary is to help people understand legal concepts so that they can use the law as a tool.
+The purpose of the Codepact dictionary is to help people understand legal concepts so that they can use the law as a tool.
 
-It's not useful yet - we're still thinking through the structure.  The only entry so far is "third party".
+It's not particularly useful yet - we're still thinking through the structure.
 
-Design principles (so far):
+Design principles (so far).
 
 - Understanding is the top priority: if a person with a reading age of thirteen cannot understand, the entry has not done its job well enough.
 - Each entry should have at least two examples of the concept applied to real examples.

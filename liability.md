@@ -1,7 +1,7 @@
-# Liability 
+# Liability
 
-`noun` Liability 
-`plural` Liabilities 
+`noun` Liability
+`plural` Liabilities
 `adjective` Liable
 
 [insert explanation]

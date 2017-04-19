@@ -12,8 +12,8 @@ There are usually two parties to a contract, so the "third party" is how you des
 
 ### Example 1
 
-- Pat owns a shop that sells surf boards.  
-- Alice is a surfboard shaper who supplies Pat with the surfboards to sell.  
+- Pat owns a shop that sells surf boards.
+- Alice is a surfboard shaper who supplies Pat with the surfboards to sell.
 - Henry runs a delivery service that transports the surfboards from Alice to Pat.
 
 In the contract where Pat buys surfboards from Alice, Henry is a third party, because he's not part of that sale contract.
@@ -22,7 +22,7 @@ The surfboard sale contract might need to mention Henry with something like "Ali
 
 In the contract where Alice pays Henry to deliver the surfboards to Pat, Pat is the third party, because he's not a party to the delivery contract.
 
-The contract between Alice and Henry could mention Pat by saying "When delivering surfboards, Henry agrees to contact the third party shop owner twenty minutes before delivery." 
+The contract between Alice and Henry could mention Pat by saying "When delivering surfboards, Henry agrees to contact the third party shop owner twenty minutes before delivery."
 
 ### Example 2
 
