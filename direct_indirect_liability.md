@@ -1,6 +1,6 @@
 # Direct and indirect liability
 
-Types of liability can be divided into **direct liabilities** and **indirect liabilities**.
+The concept of liability can be divided into **direct liabilities** and **indirect liabilities**.
 
 The line between the two is not very clear.
 
