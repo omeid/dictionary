@@ -12,6 +12,6 @@ In privacy law, sensitive information includes information about any individual'
 - criminal record; and
 - biometric information (e.g. fingerprints).
 
-It also includes [health information](https://github.com/Codepact/dictionary/blob/privacy-policy-speakers/health_information.md).
+Sensitive information also includes [health information](https://github.com/Codepact/dictionary/blob/master/health_information.md).
 
 For more details, see [APP Guidelines](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/chapter-b-key-concepts#sensitive-information)
