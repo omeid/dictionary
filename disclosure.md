@@ -10,5 +10,5 @@ In privacy law, disclosure happens when you do any of the following with persona
 
  Uninitentional disclosures still count as disclosures.
 
- For more information, see the [Australian Privacy Principles Guidelines] https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/chapter-b-key-concepts#disclosure
+ For more information, see the [Australian Privacy Principles Guidelines](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/chapter-b-key-concepts#disclosure).
 
