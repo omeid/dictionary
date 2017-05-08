@@ -1,6 +1,6 @@
-# Sensitive Information
+# AU Sensitive Information
 
-In privacy law, sensitive information includes information about any individual's:
+In Australian privacy law, sensitive information includes information about any individual's:
 - racial or ethnic origin;
 - political opinions;
 - membership of a political association;

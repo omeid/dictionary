@@ -1,6 +1,6 @@
-# Personal Information
+# AU Personal Information
 
-In the context of privacy law, personal information is any information or opinion about:
+In the context of Australian privacy law, personal information is any information or opinion about:
 - an identified individual; or
 - an individual who is reasonably identifiable (from the infromation).
 
