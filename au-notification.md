@@ -24,7 +24,7 @@ The statement typically contains links to the privacy policy and terms of use.
 
 **Best practice**
 
-Best practice is to have a notification statement like the following. Feel free to use this as a template.
+Best practice is to have a notification statement like the following, AND the clickbox statement.
 
 >*[Insert business name] collects the personal information that you provide to us. This includes: [describe instances when individuals give personal information to the provider]. We collect the following kinds of sensitive information:
 >[insert list of sensitive information collected].
@@ -36,6 +36,8 @@ Best practice is to have a notification statement like the following. Feel free 
 >- how me manage and disclose it[, including overseas data management; and
 >- who to contact if you have questions or complaints regarding privacy,
 >please see our __privacy policy__ [insert privacy policy link or url].*
+
+>*I agree to the __terms and conditions__ and the __privacy policy__.* [Put a checkbox here]
 
 ### More information
 
