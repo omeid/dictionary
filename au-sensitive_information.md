@@ -14,4 +14,4 @@ In Australian privacy law, sensitive information includes information about any 
 
 Sensitive information also includes [health information](https://github.com/Codepact/dictionary/blob/master/health_information.md).
 
-For more details, see [APP Guidelines](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/chapter-b-key-concepts#sensitive-information)
+For more details, see [APP Guidelines](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/chapter-b-key-concepts#sensitive-information).
